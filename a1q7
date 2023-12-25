@@ -1,0 +1,11 @@
+ System.out.println("exchange of to variables");
+        String x = "water";
+        String y = "kool-aid";
+        String empty;
+
+        empty=x;
+        x=y;
+        y=empty;
+
+        System.out.println("x : "+x);
+        System.out.println("y : "+y);
