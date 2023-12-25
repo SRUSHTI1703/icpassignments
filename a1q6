@@ -1,0 +1,5 @@
+System.out.println("print bank details");
+        String nam = "sumeet";
+        int acc= 12345668;
+        double balance= 111.223;
+        System.out.println("My name is " +nam+ " bearing account number " +acc+ " having balance "+balance);
